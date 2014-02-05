@@ -1,3 +1,5 @@
+Required: Visual Studios to compile, fmod
+
 Game Controls
 
 Movement: WASD
